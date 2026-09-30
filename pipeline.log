@@ -1,0 +1,11 @@
+2026-09-30 17:01:16,852 - Data loaded: 9800 rows, 18 columns
+2026-09-30 17:01:16,866 - Missing Postal Code rows dropped. New shape: (9789, 18)
+2026-09-30 17:01:16,874 - Outliers removed from Sales. New shape: (8648, 18)
+2026-09-30 17:01:16,892 - Categorical columns encoded. New shape: (8648, 41)
+2026-09-30 17:01:17,027 - Data saved to retail.db, table: sales_data
+2026-09-30 17:09:51,671 - Data loaded: 9800 rows, 18 columns
+2026-09-30 17:09:51,677 - Missing Postal Code rows dropped. New shape: (9789, 18)
+2026-09-30 17:09:51,683 - Outliers removed from Sales. New shape: (8648, 18)
+2026-09-30 17:09:51,696 - Categorical columns encoded. New shape: (8648, 41)
+2026-09-30 17:09:51,890 - Data saved to retail.db, table: sales_data
+2026-09-30 17:09:57,666 - Charts saved: region_sales.png, monthly_trend.png
